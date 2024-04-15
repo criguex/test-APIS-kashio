@@ -4,7 +4,7 @@ Automation for basic flows as registration, login, purchase, and inquires of an 
 
 ### Pre-requirements 📋
 
-If you are a Java developer - Karate requires Java 11  and then either Maven, Gradle, Eclipse or IntelliJ to be installed. Note that Karate works fine on OpenJDK. Any Java version from 8-12 is supported.
+If you are a Java developer - Karate requires Java 11  and then either Maven, Gradle, Eclipse or IntelliJ to be installed. Note that Karate works fine on OpenJDK. Any Java version from 11-17 is supported.
 
 If you are new to programming or test-automation, refer to this video for getting started with just the (free) IntelliJ Community Edition. Other options are the quickstart or the standalone executable.
 
