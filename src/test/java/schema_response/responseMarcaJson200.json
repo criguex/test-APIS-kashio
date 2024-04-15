@@ -1,0 +1,22 @@
+
+  {
+    "id" : "#number" ,
+    "brand" : "#string" ,
+    "name" : "#string" ,
+    "price" : "#present" ,
+    "price_sign" : "#present" ,
+    "currency" : "#present" ,
+    "image_link" : "#string" ,
+    "product_link" : "#string" ,
+    "website_link" : "#string" ,
+    "description" : "#string" ,
+    "rating" : "#present" ,
+    "category" : "#present" ,
+    "product_type" : "#string" ,
+    "tag_list" : "#array" ,
+    "created_at" : "#string" ,
+    "updated_at" : "#string" ,
+    "product_api_url" : "#string" ,
+    "api_featured_image" : "#string" ,
+    "product_colors" : "#present"
+  }
